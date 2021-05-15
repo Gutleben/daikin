@@ -1,0 +1,13 @@
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\bin\Debug\netcoreapp3.1\DaikinParameter.exe
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\bin\Debug\netcoreapp3.1\DaikinParameter.deps.json
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\bin\Debug\netcoreapp3.1\DaikinParameter.runtimeconfig.json
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\bin\Debug\netcoreapp3.1\DaikinParameter.runtimeconfig.dev.json
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\bin\Debug\netcoreapp3.1\DaikinParameter.dll
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\bin\Debug\netcoreapp3.1\DaikinParameter.pdb
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.csprojAssemblyReference.cache
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.AssemblyInfoInputs.cache
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.AssemblyInfo.cs
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.csproj.CoreCompileInputs.cache
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.dll
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.pdb
+C:\Users\Ivo.Gutleben\source\repos\DaikinParameter\DaikinParameter\obj\Debug\netcoreapp3.1\DaikinParameter.genruntimeconfig.cache
